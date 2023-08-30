@@ -1,3 +1,3 @@
-radar
+Graph MVCC
 ======
-Rust library for working with radar data formats.
+Rust library for working with Multi-Version Concurrency Control in Graph Databases.
