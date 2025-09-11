@@ -1,2 +1,7 @@
 /target
+/prd
+/_wb
+
 Cargo.lock
+claude.md
+CLAUDE.md
