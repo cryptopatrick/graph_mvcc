@@ -33,21 +33,24 @@ the graph state, and conflict detection for concurrent transactions.
 Below is an example of how to use the `Graph` struct to create nodes and edges within a transaction:
 
 ```rust
-use graph_mvcc::{Graph, IGraph};
+use graph_mvcc::Graph;
 
-let mut graph = Graph::new();
-let mut tx = graph.start_transaction();
+fn main() {
+    let mut graph = Graph::new();
+    let mut tx = graph.start_transaction();
 
+    // Add nodes
+    let node1 = graph.add_node(&mut tx);
+    let node2 = graph.add_node(&mut tx);
 
-// Add nodes
-let node1 = graph.add_node(&mut tx);
-let node2 = graph.add_node(&mut tx);
+    // Add an edge between nodes
+    graph.add_edge(&mut tx, &node1, &node2, "CONNECTS".to_string()).unwrap();
 
-// Add an edge between nodes
-graph.add_edge(&mut tx, &node1, &node2, "CONNECTS".to_string()).unwrap();
-
-// Commit the transaction
-graph.commit_transaction(&tx).unwrap();
+    // Commit the transaction
+    graph.commit_transaction(&tx).unwrap();
+    
+    println!("Successfully created graph with 2 nodes and 1 edge");
+}
 ```
 
 ## Work in Progress
