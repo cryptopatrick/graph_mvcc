@@ -63,6 +63,7 @@
     <li><a href="#how-to-use"> How to Use</a></li>
     <li><a href="#work-in-progress"> Work in Progress</a></li>
     <li><a href="#documentation"> Documentation</a></li>
+    <li><a href="#📚-documentation">Documentation 2</a></li>
     <li><a href="#author"> Author</a></li>
     <li><a href="#support"> Support</a>
     <li><a href="#contributing"> Contributing</a></li>
