@@ -52,23 +52,19 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#what-is-graph-mvcc"> What is Graph MVCC</a></li>
-    <li><a href="#features"> Features</a></li>
+    <li><a href="#-what-is-graph-mvcc"> What is Graph MVCC</a></li>
+    <li><a href="#-features"> Features</a></li>
       <ul>
-        <li><a href="#core-features"> Core Features</a></li>
-        <li><a href="#technical-features">Technical Features</a></li>
+        <li><a href="#-core-features"> Core Features</a></li>
+        <li><a href="#-technical-features">Technical Features</a></li>
       </ul>
-    <li><a href="#how-to-use"> How to Use</a></li>
-    <li><a href="#work-in-progress"> Work in Progress</a></li>
-    <li><a href="#documentation"> Documentation</a></li>
-    <li><a href="#📚-documentation">Documentation 2</a></li>
-    <li><a href="#:books: documentation">Documentation 3</a></li>
-    <li><a href="#:books:-documentation">Documentation 4</a></li>
-    <li><a href="#-documentation">Documentation 5</a></li>
-    <li><a href="#author"> Author</a></li>
-    <li><a href="#support"> Support</a>
-    <li><a href="#contributing"> Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#-how-to-use"> How to Use</a></li>
+    <li><a href="#-work-in-progress"> Work in Progress</a></li>
+        <li><a href="#-documentation">Documentation</a></li>
+    <li><a href="#-author"> Author</a></li>
+    <li><a href="#-support"> Support</a>
+    <li><a href="#-contributing"> Contributing</a></li>
+    <li><a href="#-license">License</a></li>
     </li>
   </ol>
 </details>
