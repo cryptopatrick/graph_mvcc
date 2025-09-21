@@ -62,6 +62,9 @@
     <li><a href="#work-in-progress"> Work in Progress</a></li>
     <li><a href="#documentation"> Documentation</a></li>
     <li><a href="#📚-documentation">Documentation 2</a></li>
+    <li><a href="#:books: documentation">Documentation 3</a></li>
+    <li><a href="#:books:-documentation">Documentation 4</a></li>
+    <li><a href="#-documentation">Documentation 5</a></li>
     <li><a href="#author"> Author</a></li>
     <li><a href="#support"> Support</a>
     <li><a href="#contributing"> Contributing</a></li>
