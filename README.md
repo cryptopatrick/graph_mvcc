@@ -35,11 +35,11 @@
 </p>
 
 <p align="center">
-  <a href="#what-is-graph-mvcc">What is Graph MVCC</a> •
-  <a href="#features">Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#documentation">Documentation</a> •
-  <a href="#license">License</a>
+  <a href="#-what-is-graph-mvcc">What is Graph MVCC</a> •
+  <a href="#-features">Features</a> •
+  <a href="#-how-to-use">How To Use</a> •
+  <a href="#-documentation">Documentation</a> •
+  <a href="#-license">License</a>
 </p>
 
 ## 🛎 Important Notices
