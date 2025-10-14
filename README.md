@@ -30,9 +30,16 @@
     <img src="https://docs.rs/graph_mvcc/badge.svg" alt="Documentation"/>
   </a>
   <a href="LICENSE" target="_blank">
-    <img src="https://img.shields.io/crates/l/graph_mvcc?style=flat-square" alt="GitHub license"/>
+    <img src="https://img.shields.io/github/license/cryptopatrick/graph_mvcc.svg" alt="GitHub license"/>
   </a>
 </p>
+
+Authors's bio: 👋😀 Hi, I'm CryptoPatrick! I'm currently enrolled as an 
+Undergraduate student in Mathematics, at Chalmers & the University of Gothenburg, Sweden. <br>
+<center>If you have any questions or need more info? <a href="https://discord.gg/T8EWmJZpCB">Join my Discord Channel: AiMath</a><center>
+
+---
+
 
 <p align="center">
   <a href="#-what-is-graph-mvcc">What is Graph MVCC</a> •
