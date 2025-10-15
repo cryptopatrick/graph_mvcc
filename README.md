@@ -34,11 +34,9 @@
   </a>
 </p>
 
-<dev align=center>
-Authors's bio: 👋😀 Hi, I'm CryptoPatrick! I'm currently enrolled as an 
+<b>Authors's bio:</b> 👋😀 Hi, I'm CryptoPatrick! I'm currently enrolled as an 
 Undergraduate student in Mathematics, at Chalmers & the University of Gothenburg, Sweden. <br>
-If you have any questions or need more info? <a href="https://discord.gg/T8EWmJZpCB">Join my Discord Channel: AiMath</a>
-</div>
+If you have any questions or need more info, then please <a href="https://discord.gg/T8EWmJZpCB">join my Discord Channel: AiMath</a>
 ---
 
 
